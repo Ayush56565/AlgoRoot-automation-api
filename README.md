@@ -52,10 +52,10 @@ POST /execute
 
 
 ## 📷 Screenshots
-### 1️⃣ API Request in Postman
-![Postman Request](screenshots/postman_request.png)
+### 1️⃣ Opening Chrome Browser
+![Postman Request](screenshots/1.png)
 
-### 2️⃣ Terminal Execution Output
-![Terminal Output](screenshots/terminal_output.png)
+### 2️⃣ List files and directories in specified path
+![Terminal Output](screenshots/2.png)
 
 
